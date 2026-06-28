@@ -1,0 +1,9 @@
+# wap to print 4th element from first and 4th element from last in a tuple
+
+t = (10, 20, 30, 40, 50, 60, 70, 80)
+
+# Print 4th element from the first
+print("4th element from first: ",t[3])
+
+# Print 4th element from the end
+print("4th element from last: ",t[-4])
